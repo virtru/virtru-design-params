@@ -2,7 +2,7 @@
   "name": "virtru-colors",
   "version": "0.0.1",
   "description": "virtru color palette",
-  "main": "colors.css",
+  "main": "src/index.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
