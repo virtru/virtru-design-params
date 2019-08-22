@@ -1,8 +1,9 @@
 {
   "name": "virtru-design-params",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Virtru design parameters",
-  "main": "main.js",
+  "main": "index.css",
+  "files": ["src"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
