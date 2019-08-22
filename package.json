@@ -1,0 +1,15 @@
+{
+  "name": "virtru-colors",
+  "version": "0.0.1",
+  "description": "virtru color palette",
+  "main": "colors.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:virtru/virtru-colors.git"
+  },
+  "author": "virtru",
+  "license": "ISC"
+}
