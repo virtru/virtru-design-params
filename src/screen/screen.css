@@ -1,1 +1,1 @@
-@custom-media --screenMobile (max-width: 767px);
+@custom-media --screenMobile screen and (max-width: 767px);
